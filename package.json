@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.83.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manojlovic1998/vscode-jelly-theme"
+  },
   "categories": [
     "Themes"
   ],
