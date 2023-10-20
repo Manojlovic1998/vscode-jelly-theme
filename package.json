@@ -1,8 +1,10 @@
 {
   "name": "jelly",
   "displayName": "jelly",
-  "publisher": "Nemanja Manojlovic",
+  "publisher": "NemanjaManojlovic",
+  "author": "Nemanja Manojlovic",
   "description": "Jelly is a theme designed to make the workspace more colorful, it introduces a new color scheme for the workspace, and the color scheme is more vibrant.",
+  "license": "GPLv2",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
