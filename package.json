@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "jelly dark",
+        "label": "Jelly Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/jelly dark-color-theme.json"
+        "path": "./themes/jelly-dark-color-theme.json"
       }
     ]
   }
