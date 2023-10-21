@@ -1,10 +1,6 @@
 # Jelly Theme for Visual Studio Code
 ![image](https://github.com/Manojlovic1998/vscode-jelly-theme/assets/58613838/622b31fa-efed-447c-98b5-0f29523ff11e)
 
-## About
-
-Jelly is a theme designed to make the workspace more colorful, it introduces a new color scheme for the workspace, and the color scheme is more vibrant.
-
 ## Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=NemanjaManojlovic.jelly).
