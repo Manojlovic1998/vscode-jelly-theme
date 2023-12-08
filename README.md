@@ -1,6 +1,7 @@
 # Jelly Theme for Visual Studio Code
 
-![image](https://github.com/Manojlovic1998/vscode-jelly-theme/assets/58613838/622b31fa-efed-447c-98b5-0f29523ff11e)
+![Github](https://github.com/Manojlovic1998/vscode-jelly-theme/assets/58613838/d5255507-bd40-4e02-b816-bf018ca0c542)
+
 
 ## Install
 
